@@ -37,8 +37,8 @@ Hi, I am Amit Shekhar, Founder @ [Outcome School](https://outcomeschool.com) •
 
 ## I teach at Outcome School
 
-- AI and Machine Learning
-- Android
+- [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning)
+- [Android](https://outcomeschool.com/program/android)
 
 Join Outcome School and get a high-paying tech job: [Outcome School](https://outcomeschool.com)
 
